@@ -2,9 +2,9 @@
 this is a demo during the git session 
 ```c++
 int main(){
-  std::cout << "hello" << std::endl;
+    int var = 2   
 }
-```
+```fds
 
 
 
